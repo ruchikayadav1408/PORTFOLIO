@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-https://ruchikayadav.netlify.app/
+
 
 :star: Star me on GitHub — it helps!
 

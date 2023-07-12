@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+https://ruchikaportfolio.netlify.app/
 
 :star: Star me on GitHub — it helps!
 

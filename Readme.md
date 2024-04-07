@@ -16,25 +16,5 @@ https://ruchikayadav.netlify.app/
 <img src="website_images/PROJECTS.png" width="900">
   
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Coding Profile\
-✔️ Contact Info
-
-
-
-## Tools Used 🛠️
-* <b>NETLIFY</b> - To host my static website (HTML, CSS, JS).
 
